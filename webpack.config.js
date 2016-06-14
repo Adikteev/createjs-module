@@ -8,7 +8,7 @@ module.exports = {
     path: './build',
     filename: 'createjs.js',
     library: 'createjs',
-    libraryTarger: 'commonjs2'
+    libraryTarget: 'commonjs2'
   },
   module: {
     loaders: [
