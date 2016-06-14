@@ -1,0 +1,31 @@
+{
+  "name": "@motionlead/createjs",
+  "version": "1.0.0",
+  "description": "CreateJS that can be required as a module",
+  "main": "build/createjs.js",
+  "scripts": {
+    "build": "webpack -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motionlead/createjs-module.git"
+  },
+  "keywords": [
+    "createjs",
+    "easeljs",
+    "tweenjs",
+    "playable",
+    "ad"
+  ],
+  "author": "Louis Bur",
+  "license": "Copyright © 2016 MotionLead All Rights Reserved",
+  "bugs": {
+    "url": "https://github.com/motionlead/createjs-module/issues"
+  },
+  "homepage": "https://github.com/motionlead/createjs-module#readme",
+  "devDependencies": {
+    "exports-loader": "^0.6.3",
+    "imports-loader": "^0.6.5",
+    "webpack": "^1.13.1"
+  }
+}
