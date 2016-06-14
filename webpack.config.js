@@ -6,7 +6,9 @@ module.exports = {
   entry: './index.js',
   output: {
     path: './build',
-    filename: 'createjs.js'
+    filename: 'createjs.js',
+    library: 'createjs',
+    libraryTarger: 'commonjs2'
   },
   module: {
     loaders: [
