@@ -1,6 +1,6 @@
 {
   "name": "@motionlead/createjs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "CreateJS that can be required as a module",
   "main": "build/createjs.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/motionlead/createjs-module.git"
+    "url": "git+https://github.com/Adikteev/createjs-module.git"
   },
   "keywords": [
     "createjs",
@@ -20,9 +20,9 @@
   "author": "Louis Bur",
   "license": "Copyright © 2016 MotionLead All Rights Reserved",
   "bugs": {
-    "url": "https://github.com/motionlead/createjs-module/issues"
+    "url": "https://github.com/Adikteev/createjs-module/issues"
   },
-  "homepage": "https://github.com/motionlead/createjs-module#readme",
+  "homepage": "https://github.com/Adikteev/createjs-module#readme",
   "devDependencies": {
     "exports-loader": "^0.6.3",
     "imports-loader": "^0.6.5",
