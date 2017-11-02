@@ -3,6 +3,7 @@
   "version": "1.0.5",
   "description": "CreateJS that can be required as a module",
   "main": "build/createjs.js",
+  "types": "./types/index.d.ts",
   "scripts": {
     "build": "webpack -p"
   },
