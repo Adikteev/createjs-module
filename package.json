@@ -1,6 +1,6 @@
 {
   "name": "@motionlead/createjs",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "CreateJS that can be required as a module",
   "main": "build/createjs.js",
   "types": "./types/index.d.ts",
